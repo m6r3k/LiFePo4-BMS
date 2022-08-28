@@ -103,6 +103,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for LiFePO4-BMS\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LiFePO4-BMS_LTC\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Title
 Value=LiFePo4  BMS
