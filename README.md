@@ -1,6 +1,6 @@
 # LiFePO4 battery managment system
 
-BMS is based on BQ7790521 IC from Texas Instrument.
+The BMS is based on BQ7790521 IC from Texas Instruments.
 IC controling UnderVoltage, OverVoltege, Temperature. Edition with LTC6101 can measure only output current.
 
 
